@@ -1,0 +1,92 @@
+[
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O001",
+        "ColorNo": "12-0824TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O001",
+        "ColorNo": "15-1058TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O001",
+        "ColorNo": "17-0636TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O001",
+        "ColorNo": "18-4034TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O001",
+        "ColorNo": "19-2434TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O002",
+        "ColorNo": "12-0824TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O002",
+        "ColorNo": "15-1058TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O002",
+        "ColorNo": "17-0636TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O002",
+        "ColorNo": "18-4034TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    },
+    {
+        "ComNo": "YW",
+        "SampleNo": "YL-O002",
+        "ColorNo": "19-2434TCX",
+        "ChooseYn": "Y",
+        "DefaultYn": "N",
+        "Remark": "",
+        "LevelNo": 1.0
+    }
+]
