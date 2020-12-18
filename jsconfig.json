@@ -3,7 +3,7 @@
     "src/**/*"
   ],
   "compilerOptions": {
-    "baseUrl": "/dist/.",
+    "baseUrl": ".",
     "paths": {
       "@/*": [
         "src/*"
