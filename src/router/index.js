@@ -56,7 +56,7 @@ const routes = [
 
 const router = new VueRouter({
   // mode: 'history',
-  // base: '/structure/dist',
+  base: '/structure/dist',
   routes
 });
 
