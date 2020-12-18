@@ -3,7 +3,7 @@
     <div class="head-bar">
       <div class="main-panel">
         <h2 class="title text-no-wrap mr-2">
-          <router-link to="/main">Yaw Liamy VML</router-link>
+          <router-link to="/main">Structure Demo</router-link>
         </h2>
         <result-display />
       </div>
